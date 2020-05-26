@@ -1,0 +1,46 @@
+Compiles with javac Dates.java
+
+runs with Java Dates < testCases
+
+Checks the Dates 1 one section at a time, years, to months, then to days.
+
+
+Test cases:
+
+01 01 01
+01/01/01
+01-01-01
+1 1 01
+01 jan 01
+0 jan 01
+01 jan 00
+31 jan 01
+32 jan 01
+-1 jan 01
+01 jan 4000
+0g jan 01
+01 abc 01
+01 jan 0g
+29 feb 00
+29 feb 1804
+29 feb 1805
+29 feb 1800
+4-6-92
+04/06/1992
+3 AUG 97
+12-Sep-1955
+12-Sep-49
+10 aUg 1992
+10 AUG 1992
+10 aug 1992
+10 Aug 1992
+10 auG 1992
+
+10 AUg 1992
+10 aUG 1992
+10 aUG -1992
+10 aUG 1h92
+10 ayG 1992
+/01 jan 01
+ 01 jan 01
+-01 jan 01

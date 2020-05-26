@@ -1,0 +1,21 @@
+   0 1 2 3 4 5 6 7 8 9
+0: H H H H T T T T _ _
+
+1: H H H H T T _ _ T T
+
+2: H _ _ H T T H H T T 
+
+3: H T T H T T H H _ _
+
+4: H T _ _ T T H H T H
+
+5: H T T H T _ _ H T H
+
+6: _ _ T H T H T H T H 
+
+6 7 
+1 2
+8 9
+2 3
+5 6
+0 1
