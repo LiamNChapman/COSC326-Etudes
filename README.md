@@ -1,2 +1,2 @@
 # COSC326-Etudes
-Java
+The self-driven Programming weekly assignments of COSC326.
